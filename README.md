@@ -1,2 +1,3 @@
 # clone-tabnews
-Um projeto para treinamento 
+
+Um projeto para treinamento
